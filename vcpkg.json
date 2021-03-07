@@ -1,0 +1,12 @@
+{
+	"name": "antons-opengl",
+	"version-string": "0.1.0-dev",
+	"homepage": "",
+	"description": "",
+	"dependencies": [
+		"spdlog",
+		"opengl",
+		"glfw3",
+		"glew"		
+	]
+}
