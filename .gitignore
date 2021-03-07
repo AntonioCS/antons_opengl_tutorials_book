@@ -62,3 +62,6 @@ build/
 *.exe
 *.pdb
 *.idb
+
+build/
+vcpkg_installed/
